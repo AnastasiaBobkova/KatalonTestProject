@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Background Task Execution Log with non-existing executionId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1457c35d-bee2-4cd2-b40e-11757eba608b</testCaseGuid>
+</TestCaseEntity>

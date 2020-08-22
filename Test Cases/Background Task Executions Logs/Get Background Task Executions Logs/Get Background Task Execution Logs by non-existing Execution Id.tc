@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Background Task Execution Logs by non-existing Execution Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b41ea4e9-b7ce-4644-a61a-9a29272f669d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Background Task Execution Logs pagination (positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20ca1a3a-cd94-4284-b291-a88d5b9b587b</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>ce4c79b0-d9c1-483c-a7c3-48b0971d38c4</id>
+      <masked>false</masked>
+      <name>Page</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>68db46aa-e66b-468c-b6da-77d53ae6c461</id>
+      <masked>false</masked>
+      <name>PageSize</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>d3d4fa1d-badd-4ede-9baa-eeed52becd08</id>
+      <masked>false</masked>
+      <name>ExpectedElementCount</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>e34fcc75-fba2-42e8-beea-ad5ad4b80f97</id>
+      <masked>false</masked>
+      <name>TotalElementCount</name>
+   </variable>
+</TestCaseEntity>

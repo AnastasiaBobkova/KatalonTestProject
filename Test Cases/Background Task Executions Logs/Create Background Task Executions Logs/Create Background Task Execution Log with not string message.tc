@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Background Task Execution Log with not string message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a6b4a94-eb6d-49fb-a38a-6f1bcf756714</testCaseGuid>
+</TestCaseEntity>

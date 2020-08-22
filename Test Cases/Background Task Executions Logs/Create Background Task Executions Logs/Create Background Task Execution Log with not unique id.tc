@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Background Task Execution Log with not unique id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f34197dd-2bc2-4d36-9675-a67b390282cc</testCaseGuid>
+</TestCaseEntity>

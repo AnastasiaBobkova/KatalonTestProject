@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Background Task Execution Logs by Execution Id with no logs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b643a915-d890-4876-9557-e5227bd3d563</testCaseGuid>
+</TestCaseEntity>

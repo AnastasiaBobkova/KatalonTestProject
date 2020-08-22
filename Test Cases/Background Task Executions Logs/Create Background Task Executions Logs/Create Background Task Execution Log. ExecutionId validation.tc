@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Background Task Execution Log. ExecutionId validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd1ed097-5962-4782-9a5e-88011d3c6a70</testCaseGuid>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>7bdd718f-41f0-48e3-b604-6cb21c14e0a0</id>
+      <masked>false</masked>
+      <name>executionId</name>
+   </variable>
+   <variable>
+      <defaultValue>400</defaultValue>
+      <description></description>
+      <id>348c0f6d-d767-4824-96c2-aa1c110728ba</id>
+      <masked>false</masked>
+      <name>expectedStatusCode</name>
+   </variable>
+</TestCaseEntity>

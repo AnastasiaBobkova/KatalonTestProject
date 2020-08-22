@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Background Task Execution Logs by invalid Execution Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3055fbb-f75d-4874-947c-d9be443e4d70</testCaseGuid>
+</TestCaseEntity>

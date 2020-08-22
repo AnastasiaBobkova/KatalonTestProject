@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Background Task Execution Logs combine pagination, filtering, sorting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd94ae68-6975-47f5-9d42-01fc9abbcdf4</testCaseGuid>
+</TestCaseEntity>

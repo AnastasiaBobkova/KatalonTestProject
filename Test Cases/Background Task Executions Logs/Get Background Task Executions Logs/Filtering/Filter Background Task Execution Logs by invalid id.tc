@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter Background Task Execution Logs by invalid id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b874a44a-b41a-415f-a220-da0ba0ae3b0a</testCaseGuid>
+</TestCaseEntity>
