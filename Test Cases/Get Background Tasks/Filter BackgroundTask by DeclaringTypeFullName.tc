@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter BackgroundTask by DeclaringTypeFullName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e14d8209-f00e-4534-afb5-a47d8047b12e</testCaseGuid>
+</TestCaseEntity>

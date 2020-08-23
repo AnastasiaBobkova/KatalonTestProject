@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pagination Element Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d8892c5-048d-4d86-adf0-8797522ce863</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>e3558793-0fd2-4aaa-81cd-e87bd4b6478c</id>
+      <masked>false</masked>
+      <name>Page</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>985ab1a9-e7f8-4ad6-842a-2c31793cd2c2</id>
+      <masked>false</masked>
+      <name>PageSize</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>9aba8dc8-016b-4ff0-8e38-1ca3ef3257ce</id>
+      <masked>false</masked>
+      <name>ExpectedElementCount</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>ae4c23a4-3883-4006-9e12-ead3538476ba</id>
+      <masked>false</masked>
+      <name>TotalElementCount</name>
+   </variable>
+</TestCaseEntity>
