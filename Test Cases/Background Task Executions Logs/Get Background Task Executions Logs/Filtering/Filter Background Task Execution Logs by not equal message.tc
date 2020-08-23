@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Filter Background Task Execution Logs by not equal message</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>17a38f84-8d74-4b43-8877-0862489121ae</testCaseGuid>
-</TestCaseEntity>

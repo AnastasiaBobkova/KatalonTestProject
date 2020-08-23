@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Filter Background Task Execution Logs by Id</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>44f84c01-f395-42af-acb8-6b9e36c05814</testCaseGuid>
-</TestCaseEntity>

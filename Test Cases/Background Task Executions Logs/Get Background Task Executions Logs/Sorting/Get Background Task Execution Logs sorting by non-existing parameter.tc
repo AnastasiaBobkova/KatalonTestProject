@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Get Background Task Execution Logs sorting by non-existing parameter</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>75aa032d-4a3f-4fd6-8af5-0329c3be051d</testCaseGuid>
-</TestCaseEntity>

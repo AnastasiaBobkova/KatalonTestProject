@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Filter Background Task Execution Logs by invald Execution Id</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e69c9638-e5e7-4739-a389-a07dfea6fed0</testCaseGuid>
-</TestCaseEntity>

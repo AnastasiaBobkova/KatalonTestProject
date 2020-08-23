@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Filter Background Task Execution Logs by non-existing message</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b4fac1d8-1520-4015-8d24-fcb9835be945</testCaseGuid>
-</TestCaseEntity>

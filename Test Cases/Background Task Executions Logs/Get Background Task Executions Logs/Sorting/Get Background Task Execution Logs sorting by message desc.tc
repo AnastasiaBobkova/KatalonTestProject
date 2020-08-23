@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Get Background Task Execution Logs sorting by message desc</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e8433ed3-1454-4523-b6ac-a7feeb3d0248</testCaseGuid>
-</TestCaseEntity>
