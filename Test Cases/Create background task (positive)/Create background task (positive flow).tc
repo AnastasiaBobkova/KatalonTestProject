@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create background task (positive flow)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb0174f-d0d0-46b5-b8a9-8604dac19556</testCaseGuid>
+   <variable>
+      <defaultValue>'some name'</defaultValue>
+      <description></description>
+      <id>d7e54313-e6fd-4b15-be35-3dd1189c8bea</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>0f18b66e-e7fc-45c1-8a1e-26bf0f8d9fe0</id>
+      <masked>false</masked>
+      <name>expectedStatusCode</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create background task without optional keys (default values in ArgumentDescription)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0f86c4b-39e6-42de-a3b9-6aa84c14ee55</testCaseGuid>
+</TestCaseEntity>
