@@ -20,7 +20,6 @@ def size = TotalElementCount as Integer
 def ids = new ArrayList<String>(); // equivalent to: def ids = []
                                    // creating object of class ArrayList<String>, which is list of strings. 
                                    // set pointer of created object to ids variable
-
 for(def i = 0; i < size; i++)
 {
 	def id = UUID.randomUUID().toString();
