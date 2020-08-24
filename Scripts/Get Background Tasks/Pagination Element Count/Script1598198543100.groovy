@@ -17,9 +17,7 @@ import internal.GlobalVariable as GlobalVariable
 
 def size = TotalElementCount as Integer
 
-def ids = new ArrayList<String>(); // equivalent to: def ids = []
-                                   // creating object of class ArrayList<String>, which is list of strings. 
-                                   // Set pointer of created object to ids variable
+def ids = new ArrayList<String>(); 
 
 for(def i = 0; i < size; i++)
 {
@@ -38,8 +36,6 @@ def response = WS.sendRequestAndVerify(findTestObject('Background Tasks/GET/Get 
 
 WS.verifyElementsCount(response, '', ExpectedElementCount as Integer)
 
-// ids.size() - method that returns number of elements in ids list
-// ids[i] - returns i element of the ids list
 for(def i = 0; i < ids.size(); i++)
 {
 	WS.sendRequestAndVerify(findTestObject('Background Tasks/Delete/Delete Background Task By Id', [('id') : ids[i]]))
