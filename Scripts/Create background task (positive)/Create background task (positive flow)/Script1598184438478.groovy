@@ -15,14 +15,10 @@ import internal.GlobalVariable as GlobalVariable
 
 // arrange
 def id = UUID.randomUUID().toString()
-
-def description = 'first backgroundTask'
-
-def methodName = 'someMethod'
-
+def description = 'ForecastForDays'
+def methodName = 'ForecastForDays'
 def declaringTypeFullName = 'Suvoda.SuperNamespace.SuperClass'
-
-def serviceName = 'SubjectService'
+def serviceName = 'TestDomainService'
 
 def statusCode = expectedStatusCode as int
 // act
@@ -33,11 +29,8 @@ def response = WS.sendRequestAndVerify(findTestObject('Background Tasks/Create/C
 def createdTask = WS.sendRequestAndVerify(findTestObject('Background Tasks/GET/Get Background Task By Id', [('URL') : GlobalVariable.URL
           , ('id') : id]))
 
-
 WS.verifyResponseStatusCode(response, statusCode)
-
 WS.verifyElementPropertyValue(createdTask, 'name', name)
-
 WS.verifyElementPropertyValue(createdTask, 'description', description)
 
 //clean
