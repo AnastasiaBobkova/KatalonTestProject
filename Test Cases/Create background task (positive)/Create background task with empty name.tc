@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create background task with EMPTY description</name>
+   <name>Create background task with empty name</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ee19e5f2-8716-494c-82c6-80f18e2008b0</testCaseGuid>
+   <testCaseGuid>b2c067d0-aeea-4347-8eed-9fb291a2e650</testCaseGuid>
 </TestCaseEntity>
