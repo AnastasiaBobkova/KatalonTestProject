@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Background Task. Method name validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d692bb4-2860-4012-85a1-c1b2811bdf93</testCaseGuid>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>34a0f73c-8b6d-41b1-b780-63f8be51edfe</id>
+      <masked>false</masked>
+      <name>methodName</name>
+   </variable>
+   <variable>
+      <defaultValue>400</defaultValue>
+      <description></description>
+      <id>d4ef8b36-f87a-482a-8569-84294832cde0</id>
+      <masked>false</masked>
+      <name>expectedStatusCode</name>
+   </variable>
+</TestCaseEntity>

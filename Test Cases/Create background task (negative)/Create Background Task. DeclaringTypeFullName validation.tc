@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Background Task. DeclaringTypeFullName validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a74ff1a6-e6ab-4244-8362-9eacbd1e393f</testCaseGuid>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>5d01a822-febe-4bdf-95d9-1559e66f5962</id>
+      <masked>false</masked>
+      <name>declaringTypeFullName</name>
+   </variable>
+   <variable>
+      <defaultValue>400</defaultValue>
+      <description></description>
+      <id>2f80cfa9-8474-4df4-924a-c8b867d81204</id>
+      <masked>false</masked>
+      <name>expectedStatusCode</name>
+   </variable>
+</TestCaseEntity>
