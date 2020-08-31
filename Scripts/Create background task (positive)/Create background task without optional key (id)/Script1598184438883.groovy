@@ -15,19 +15,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-// arrange
 def methodName = 'DoBackgroundTask'
 
 def declaringTypeFullName = 'Suvoda.SuperNamespace.SuperClass'
 
 def serviceName = 'SubjectService'
 
-// act
 def response = WS.sendRequestAndVerify(findTestObject('Background Tasks/Create/Create Background Task without optional key (id)', 
         [('methodName') : methodName, ('declaringTypeFullName') : declaringTypeFullName
             , ('serviceName') : serviceName]))
 
-//assert
 def createdTask = WS.sendRequestAndVerify(findTestObject('Background Tasks/GET/Get Background Task By methodName', [('URL') : GlobalVariable.URL
             , ('methodName') : methodName]))
 
@@ -35,7 +32,6 @@ def responseArray = createdTask.responseText
 
 assert '[]' != responseArray
 
-//clean
 def id = WS.getElementPropertyValue(createdTask, '[0].id')
 
 WS.sendRequestAndVerify(findTestObject('Background Tasks/Delete/Delete Background Task By Id', [('URL') : GlobalVariable.URL, ('id') : id]))
