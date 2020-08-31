@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create background task (DeclaringTypeFullName is not string)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d074dde2-0815-4f17-97ea-5bdddac9c535</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create background task (methodName is not a string)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>874c1849-e03a-45fe-b49e-3c9732a5c117</testCaseGuid>
+</TestCaseEntity>
