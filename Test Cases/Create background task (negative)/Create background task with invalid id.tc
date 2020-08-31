@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create background task with invalid id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64b9da5b-f046-40f3-b437-aa043366887c</testCaseGuid>
+</TestCaseEntity>
