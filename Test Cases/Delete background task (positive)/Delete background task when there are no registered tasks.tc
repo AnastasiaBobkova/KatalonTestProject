@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete background task when there are no registered tasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaaf500e-c8a2-4cf7-abbe-cbf9ba68aa1c</testCaseGuid>
+</TestCaseEntity>

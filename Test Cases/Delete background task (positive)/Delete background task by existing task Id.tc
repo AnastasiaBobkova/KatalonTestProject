@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create background task with empty body</name>
+   <name>Delete background task by existing task Id</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>bbf7d7d8-eb5b-4fc0-b5ac-16dddb4d1ff0</testCaseGuid>
+   <testCaseGuid>6fcfb992-1239-4236-86eb-6f3d3941c697</testCaseGuid>
 </TestCaseEntity>
