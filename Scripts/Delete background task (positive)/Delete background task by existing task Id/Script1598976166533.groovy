@@ -18,12 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 // arrange
 def id = UUID.randomUUID().toString()
 
-def name = 'Wasya'
-
-def description = 'first backgroundTask'
-
-def response = WS.sendRequestAndVerify(findTestObject('Background Tasks/Create/Create Background Task', [('id') : id, ('name') : name
-            , ('description') : description]))
+def response = WS.sendRequestAndVerify(findTestObject('Background Tasks/Create/Create Background Task', [('id') : id]))
 
 // act
 def deleteTask = findTestObject('Background Tasks/Delete/Delete Background Task By Id', [('id') : id])
