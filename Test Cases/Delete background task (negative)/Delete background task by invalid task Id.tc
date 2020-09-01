@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete background task by invalid task Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aee25dce-5048-4dbe-a792-162b43de045d</testCaseGuid>
+</TestCaseEntity>
