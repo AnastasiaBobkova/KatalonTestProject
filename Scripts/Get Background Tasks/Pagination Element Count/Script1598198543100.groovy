@@ -16,28 +16,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 def size = TotalElementCount as Integer
-
-def ids = new ArrayList<String>(); // equivalent to: def ids = []
-                                   // creating object of class ArrayList<String>, which is list of strings. 
-                                   // set pointer of created object to ids variable
+def ids = new ArrayList<String>();
 for(def i = 0; i < size; i++)
 {
 	def id = UUID.randomUUID().toString();
-	ids.add(id) // add variable value id to the list of ids
+	ids.add(id)
 	def methodName = "Antonina${i}";
 	WS.sendRequestAndVerify(findTestObject('Background Tasks/Create/Create Background Task', [
 		('id') : id,
 		('methodName') : methodName 
 		]))
 }
-
 def pagination = "?Page=${Page}&PageSize=${PageSize}"
-
 def response = WS.sendRequestAndVerify(findTestObject('Background Tasks/GET/Get Background Task', [('queryString') : pagination]))
-
 WS.verifyElementsCount(response, '', ExpectedElementCount as Integer)
-
-for(def i = 0; i < ids.size(); i++) // ids.size() - method that returns number of elements in ids list
+for(def i = 0; i < ids.size(); i++)
 {
 	WS.sendRequestAndVerify(findTestObject('Background Tasks/Delete/Delete Background Task By Id', [('id') : ids[i]])) // ids[i] - returns i element of the ids list
 }
