@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update not existing task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1053771c-05db-4edd-8eed-69a2b8f9e4dc</testCaseGuid>
+</TestCaseEntity>

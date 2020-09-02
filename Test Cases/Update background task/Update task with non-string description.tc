@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update task with non-string description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d120ada-3516-4476-ab78-04e729a33a84</testCaseGuid>
+</TestCaseEntity>
