@@ -292,4 +292,28 @@
          <variableId>ae4c23a4-3883-4006-9e12-ead3538476ba</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>da2e30f7-9a8f-46fe-83bd-e0753a437f03</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Update background task/Update not existing task</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8cfcddeb-5d7f-4106-be6c-fa14aa73f6f2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Update background task/Update optional keys. Simple Positive</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5e843111-9985-46c3-8939-51acc2053f2a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Update background task/Update task with non-sting name</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9178d983-e23f-457c-a87a-572ce4c9d016</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Update background task/Update task with non-string description</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
