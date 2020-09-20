@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trigger backgroundTask by non-existing id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c58bb8d1-481b-4f63-a5d6-77b33e6c9dc0</testCaseGuid>
+</TestCaseEntity>

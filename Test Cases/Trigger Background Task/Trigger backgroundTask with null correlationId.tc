@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trigger backgroundTask with null correlationId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3917321-9758-45a5-9877-17b386b659c5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trigger backgroudTask with non-existing argument</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1615559-5de8-45cd-b564-88deb4ed230c</testCaseGuid>
+</TestCaseEntity>

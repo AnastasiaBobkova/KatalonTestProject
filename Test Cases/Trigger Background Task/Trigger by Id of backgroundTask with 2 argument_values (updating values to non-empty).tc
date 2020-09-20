@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trigger by Id of backgroundTask with 2 argument_values (updating values to non-empty)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22ba7228-6c25-423e-bb08-67e72fb76ab0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trigger backgroundTask changing argument_value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>220f4c80-653d-4516-80ff-a06960363419</testCaseGuid>
+</TestCaseEntity>

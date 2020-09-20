@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trigger backgroundTask without default value provided and with argument_value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0e05ecb-7eb8-422a-90ec-fad3f14f2705</testCaseGuid>
+</TestCaseEntity>
