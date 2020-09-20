@@ -19,11 +19,6 @@ import java.lang.StringBuilder as StringBuilder
 import java.util.UUID as UUID
 import com.fasterxml.jackson.annotation.ObjectIdGenerators$UUIDGenerator as UUIDGenerator
 
-//arrange
 def id = UUID.randomUUID().toString()
-
-//act
-def response = WS.sendRequest(findTestObject('Background Tasks/PUT/Update optional fields', [('URL') : GlobalVariable.URL, ('id') : id]))
-
-//assert
+def response = WS.sendRequest(findTestObject('Background Tasks/PUT/Update optional fields', [('id') : id]))
 WS.verifyResponseStatusCode(response, 404)
